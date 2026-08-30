@@ -149,6 +149,9 @@ Threat Classification
   <a href="https://github.com/prayudev/Malware-Detection-Lab">
     <img src="https://img.shields.io/badge/View%20Malware%20Lab-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://malware-detection-lab.onrender.com/">
+    <img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
 ---
