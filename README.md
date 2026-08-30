@@ -4,12 +4,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+Learner;Building+Smart+Study+Planner;Consistency+is+my+superpower" />
 </p>
 
-<h3 align="center">Cyber Security | Fullstack Developer | React Learner | Building Smart Study Tools 🚀</h3>
+<h3 align="center">Cyber Security | VAPT | SOC Analyst | Fullstack Developer | Building Malware detection lab | Building Smart Study Tools 🚀</h3>
 
 ---
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/prayudev">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:your-email@example.com">
