@@ -18,7 +18,7 @@
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://YOUR_PORTFOLIO_LINK">
+  <a href="https://https://prayudev.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
@@ -85,10 +85,10 @@
   <a href="https://github.com/YOUR_USERNAME">
     <img src="https://skillicons.dev/icons?i=github" height="40"/>
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/ravi-raj2505/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:ayushweb.help@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
 </p>
